@@ -19,6 +19,7 @@
 
 #import "MainViewController.h"
 
+// 아이폰 모듈 수정
 @implementation MainViewController
 
 - (void)viewDidLoad
