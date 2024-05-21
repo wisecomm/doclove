@@ -22,7 +22,8 @@ package com.softone.doclove;
 import android.os.Bundle;
 
 import org.apache.cordova.*;
-// ㅏㅏ
+
+// 자바소스 수정
 public class MainActivity extends CordovaActivity
 {
     @Override
