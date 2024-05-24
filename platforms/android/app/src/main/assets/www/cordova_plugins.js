@@ -14,10 +14,19 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
         "cordova.plugins.screenorientation",
         "screen.orientation"
       ]
+    },
+    {
+      "id": "cordova-plugin-firebasex.FirebasePlugin",
+      "file": "plugins/cordova-plugin-firebasex/www/firebase.js",
+      "pluginId": "cordova-plugin-firebasex",
+      "clobbers": [
+        "FirebasePlugin"
+      ]
     }
   ];
   module.exports.metadata = {
     "es6-promise-plugin": "4.2.2",
-    "cordova-plugin-screen-orientation": "3.0.4"
+    "cordova-plugin-screen-orientation": "3.0.4",
+    "cordova-plugin-firebasex": "16.5.0"
   };
 });

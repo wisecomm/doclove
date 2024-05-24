@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127642531807",
+    "project_id": "doclove-ced06",
+    "storage_bucket": "doclove-ced06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127642531807:android:059cd98b8b9107bf58766a",
+        "android_client_info": {
+          "package_name": "com.softone.doclove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJGIsUKvFZr2ydH1lxE6Rdiaxyj9HxTNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
